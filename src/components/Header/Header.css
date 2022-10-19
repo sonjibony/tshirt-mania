@@ -1,0 +1,15 @@
+nav a{
+    text-decoration: none;
+    margin-left: 5px;
+    color: black ;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+nav {
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}

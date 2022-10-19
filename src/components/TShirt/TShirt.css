@@ -1,0 +1,20 @@
+.tshirt{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.tshirt img{
+    height: 250px;
+}
+.item-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.btn-buy{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
